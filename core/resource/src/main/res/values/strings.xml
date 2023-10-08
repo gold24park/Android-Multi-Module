@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiModule</string>
+    <string name="menu_game">Favorite Games</string>
+    <string name="go">Go</string>
+</resources>
