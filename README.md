@@ -1,4 +1,4 @@
-# MultiModule
+# Multi Module
 This is an example project of how to easily configure a multi-module project with Convention Plugins.
 
 ## Modules
@@ -16,3 +16,6 @@ flowchart TD
 	app --> core
 	feature --> core
 ```
+
+## Reference
+Now in Android
